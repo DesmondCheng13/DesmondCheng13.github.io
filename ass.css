@@ -550,7 +550,7 @@ img {
         display: grid;
         padding-left: 20px;
         padding-bottom: 30px;
-        width: 900px;
+        width: auto;
     }
 
     .input-section-5 {
