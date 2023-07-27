@@ -4,7 +4,7 @@ body {
 
 #topnav {
     display: flex;
-    padding: 20px 50px;
+    padding: 5px 50px;
     justify-content: space-between;
 }
 
@@ -46,6 +46,10 @@ body {
     font-size: 32px;
     font-family: 'Inter', sans-serif;
     font-weight: 700;
+}
+
+#nav-title a {
+    display: flex;
 }
 
 img {
