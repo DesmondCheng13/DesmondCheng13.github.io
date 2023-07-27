@@ -394,6 +394,8 @@ img {
     #nav-title {
         display: flex;
         margin: auto;
+        margin-top: -10px;
+        margin-bottom: -10px;
     }
 
     #nav-title div {
