@@ -332,9 +332,21 @@ img {
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     color: white;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 50px;
     width: 346px;
+}
+
+.section-5-content a {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 0px;
+    width: 346px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 
 .section-5-content img {
