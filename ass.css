@@ -517,7 +517,7 @@ img {
 
     .section-4-container {
         margin-left: 20px;
-        width: 400px;
+        width: 330px;
     }
 
     .section-4-title {
@@ -554,28 +554,28 @@ img {
     }
 
     .input-section-5 {
-        width: 400px;
+        width: 330px;
         height: 30px;
         font-size: 16px;
         margin-bottom: 40px;
     }
 
     .textarea-section-5 {
-        width: 400px;
+        width: 330px;
         font-size: 16px;
     }
 
     #send-btn {
         font-size: 14px;
         margin: auto;
-        margin-left: 150px;
+        margin-left: 110px;
     }
 
     #contact-me {
         display: grid;
         height: auto;
         margin: auto;
-        padding-left: 30px;
+        padding-left: 0px;
     }
 
     .section-5-content {
